@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4252493988
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0cae5c6637fbf6881a880e4f16a4a332
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ed26e3ad9f6be9c24f85f5f5b54339d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Textures/m870.png
+- Assets/Textures/akm_diff.tga
+Dependencies: []
